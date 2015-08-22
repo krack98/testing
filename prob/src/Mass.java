@@ -22,7 +22,7 @@ public class Mass {
         //objD.kvdrat(); //40
        // objD.maxStok(); //32
         //objD.glDiog();//34
-        objD.shkola();//33
+
 
         System.out.println();
         MoreData objMD = new MoreData(objD);

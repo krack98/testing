@@ -203,20 +203,5 @@ public class Data {
        System.out.println("summa="+sum);
         System.out.println("kolichestvo="+kol);
     }
-    public void shkola(){
-        int i,j,s[][]=new int[15][2];
-        for (i=0;i<15;i++){
-            for (j=0;j<2;j++){
-                s[i][j]=(int)(Math.random()*9+2);
-                System.out.print(s[i][j]);
-                System.out.print("X");
-            }
-            System.out.println();
-        }
-        for (i=0;i<15;i++){
-            for (j=0;j<2;j++){
 
-            }
-        }
-    }
 }
